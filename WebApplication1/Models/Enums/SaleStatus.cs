@@ -7,8 +7,8 @@ namespace WebApplication1.Models
 {
     public enum SaleStatus : int
     {
-        Pendinh = 0,
-        Billied = 1,
+        Pending = 0,
+        Billed = 1,
         Canceled = 2
 
     }
